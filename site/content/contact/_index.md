@@ -1,19 +1,20 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/apple-touch-icon.png
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: 'Oslo, Norway'
+  - heading: Contact details
+    text: |-
+      email: emelleby@live.no
+      phone: +47048487245
 ---
-
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+I’d love to get in touch with you and hear your ideas and
+questions. I strive to grow and improve constantly and your feedback
+is valuable to me.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+You can also use the form below for any inquiries about 
+availability, racing, coaching or scheduling a 1-on-1 session
+with me. Don’t be shy, drop me a line!
