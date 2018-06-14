@@ -1,41 +1,31 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: Welcome to melleby.racing
+subtitle: A site where I will have some information and blog posts about my sailing.
 image: /img/eivind-josh_timwilkes.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: What kind of sailing?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Nowadays I mainly race the Stars. Josh Revkin and I were able to secure the
+    big Star World Cup last year earning us the Gold star finally. We are
+    looking to defend the title this year in Oxford in October.
 intro:
-  heading: What we offer
+  heading: What can I offer
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    I do some pro sailing in the big boats as pretty much any position as long
+    as it's aft of the mast. As Barney said a long time ago "My time on foredeck
+    is over". I might do it occasionally for fun because I must admit that's
+    where the action is.
 products:
   - image: img/illustrations-coffee.svg
-    text: >-
-      We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
+    text: Crewing
   - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+    text: Coaching
 values:
-  heading: Our values
-  text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  heading: My values
+  text: |-
+    I believe in the basics of sailing and my 3 basic rules are simple:
+    1. Be close to the starting line when the gun goes off.
+    2. Sail faster than the others.
+    3. Sail shorter than the others.
 ---
 
