@@ -2,7 +2,6 @@ table
 {
   border-radius: var(--border-radius);
   overflow: hidden;
-  width: 85vw;
   font-size: 16px;
 }
 
