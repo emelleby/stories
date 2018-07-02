@@ -6,6 +6,7 @@ table
 
 td, th {
   padding: $spacing-medium;
+  border: 1px solid;
 }
 
 th:not(:first-child), td:not(:first-child) {
