@@ -2,6 +2,7 @@ table
 {
   border-radius: var(--border-radius);
   overflow: hidden;
+  max-width: 85vw;
 }
 
 td, th {
