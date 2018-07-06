@@ -51,8 +51,11 @@ collections: # A list of collections the CMS should be able to edit
               - label: Heading
                 name: heading
                 widget: string
-              - label: Text
-                name: text
+              - label: Email
+                name: email
+                widget: text
+              - label: Phone
+                name: phone
                 widget: text
       - file: "site/content/products/_index.md"
         label: "Products Page"
