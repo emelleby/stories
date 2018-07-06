@@ -3,8 +3,8 @@ title: Contact
 logo: /img/apple-touch-icon.png
 contact_entries:
   - heading: Location
-    text1: 'Oslo, Norway'
-    text2: 'hei'
+    text1: Frognerseterveien 35e
+    text2: 'Oslo, Norway'
   - heading: Contact details
     text1: 'email: emelleby@live.no'
     text2: 'phone: +47 48487245'
