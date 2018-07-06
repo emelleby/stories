@@ -2,10 +2,12 @@
 title: Contact
 logo: /img/apple-touch-icon.png
 contact_entries:
-  - heading: Location
-    text: 'Oslo, Norway'
-  - heading: Contact details
-    email: 'email: emelleby@live.no'
+  - email: 'Oslo, Norway'
+    heading: Location
+    phone: |
+      xcvxcvxc<cvzxv
+  - email: 'email: emelleby@live.no '
+    heading: Contact details
     phone: 'phone: +47 48487245'
 ---
 I’d love to get in touch with you and hear your ideas and
