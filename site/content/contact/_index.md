@@ -5,9 +5,8 @@ contact_entries:
   - heading: Location
     text: 'Oslo, Norway'
   - heading: Contact details
-    text: |-
-      email: emelleby@live.no
-      phone: +47 48487245
+    text: 'email: emelleby@live.no'
+    text2: 'phone: +47 48487245'
 ---
 I’d love to get in touch with you and hear your ideas and
 questions. I strive to grow and improve constantly and your feedback
