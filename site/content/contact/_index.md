@@ -1,6 +1,7 @@
 ---
 title: Contact page
 logo: /img/eivind-petter-ol.jpg
+image: /img/eivind-petter-ol.jpg
 contact_entries:
   - heading: Location
     text1: Frognerseterveien 35e
