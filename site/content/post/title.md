@@ -21,6 +21,7 @@ This is the setup wizard screen and it will show the steps that the user will go
 
 [Charts URL]: ../../Charts/Exports/index.html
 
+<iframe width="640" height="360" src="https://realtimeboard.com/app/embed/o9J_kzAKsVw=/?" frameborder="0" scrolling="no" allowfullscreen></iframe>
 ---
 # Screen
 
