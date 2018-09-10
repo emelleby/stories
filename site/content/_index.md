@@ -5,7 +5,7 @@ image: /img/eivind-josh_timwilkes.jpg
 blurb:
   heading: What kind of sailing?
   text: >-
-    Nowadays I mainly race the Stars. Josh Revkin and I were able to secure the
+    Nowadays, I mainly race the Stars. Josh Revkin and I were able to secure the
     big Star World Cup last year earning us the Gold star finally. We are
     looking to defend the title this year in Oxford in October.
 intro:
@@ -16,9 +16,9 @@ intro:
     is over". I might do it occasionally for fun because I must admit that's
     where the action is.
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/09.05.12 - 1.jpg
     text: Crewing
-  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/profil_em.jpg
     text: Coaching
 values:
   heading: My values
