@@ -22,7 +22,6 @@ products:
     text: Coaching
 values:
   heading: My values
-  # text: |-
 
 ---
 
