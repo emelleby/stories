@@ -28,6 +28,9 @@ values:
 
     **I believe in the basics of sailing and my 3 basic rules are simple:**
 
-    1. Be close to the starting line when the gun goes off.
-    2. Sail faster than the others.
+    1. Be close to the starting line when the gun goes off. 
+    2. Sail faster than the others. 
     3. Sail shorter than the others.
+  heading: My values
+---
+
