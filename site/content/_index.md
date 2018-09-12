@@ -23,7 +23,7 @@ products:
 values:
   heading: My values
 ---
-**I believe in the basics of sailing and my 3 basic rules are simple:**
+
 
 
 
