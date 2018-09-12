@@ -20,11 +20,10 @@ products:
     text: Crewing
   - image: /img/profil_em.jpg
     text: Coaching
-values:
-  heading: My values
+heading: My Values
 ---
 **Test**
-
+sdfsdfsdfsf
 
 
 
