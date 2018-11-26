@@ -15,6 +15,8 @@ intro:
     as it's aft of the mast. As Barney said a long time ago "My time on foredeck
     is over". I might do it occasionally for fun because I must admit that's
     where the action is.
+
+    https://non-eu-europe.chargifypay.com/subscribe/yg4b6jsgwbfk/apprentice-monthly
 products:
   - image: /img/09.05.12 - 1.jpg
     text: Crewing
